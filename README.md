@@ -65,7 +65,7 @@ The file contains 7 property-based tests organized into 4 classes:
 - Invariants
 - Postconditions 
 - Metamorphic properties 
-- Boundary conditions +
+- Boundary conditions 
 
 ## Graph Generation
 
