@@ -62,10 +62,10 @@ The file contains 7 property-based tests organized into 4 classes:
 
 ## Property Types Covered
 
-- Invariants (bounds, isomorphism invariance)
-- Postconditions (formula verification)
-- Metamorphic properties (edge addition monotonicity)
-- Boundary conditions (complete graph identity)
+- Invariants
+- Postconditions 
+- Metamorphic properties 
+- Boundary conditions +
 
 ## Graph Generation
 
