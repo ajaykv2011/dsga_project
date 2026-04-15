@@ -1,8 +1,6 @@
 """
 #####
-#####
 Property-Based Tests for NetworkX Closeness Centrality Implementation
-#####
 #####
 
 Team Member: Venkata Ajay Kolla
